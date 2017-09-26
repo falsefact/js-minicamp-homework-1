@@ -1,0 +1,15 @@
+Homework 1 - Feynman Writing Prompts
+Variables
+    Variables store or hold data. Data is a sequence of characters, words, or numbers. So, variables are like containers that hold this data. 
+
+Strings
+    Strings are sequences of characters. They store a series of characters.
+
+Functions (arguments, return)
+    Functions are blocks of code that help you perform a particular task. They are convenient blocks of code because they can be reused throughout your program. If you end up repeating the same series of code, you can turn that series of code into a function to be reused for later. Arguments are the things that you pass into a function so that it can be used however you want. In turn, the function will return a value.
+
+if statements
+    If statements help you control which blocks of code to use and which to not use, depending on certain situations. These help to control the flow of your code. For instance, if you need a certain function to run given a certain situation, you can use an if statement so that only that function is run when you need it to run.
+
+Boolean values (true, false)
+    Boolean values represent conditions, and consist of the value true and false. They are represented as binary values, 1 and 0. 
